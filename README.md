@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lowcodelocky2-xano-mcp-badge.png)](https://mseep.ai/app/lowcodelocky2-xano-mcp)
+
 # Xano MCP Server
 
 A Model Context Protocol (MCP) server for interacting with Xano's metadata API. This server provides tools that can be used by AI assistants (like Claude) through Cursor or other MCP-compatible clients.
